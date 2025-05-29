@@ -1,0 +1,22 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "category": ["saúde", "esporte", "bodybuilder"]
+    },
+
+    {
+        "podcastName": "flow",
+        "episode": "RUBENS BARRICHELLO - Flow #339",
+        "videoId": "4KDGTdi0V4I",
+        "category": ["saúde", "esporte", "bodybuilder"]
+    },
+    
+    {
+        "podcastName": "inteligencia",
+        "episode": "Pr. Rubbens - Flow #340",
+        "videoId": "000000",
+        "category": ["saúde", "esporte", "programação"]
+    }
+]
